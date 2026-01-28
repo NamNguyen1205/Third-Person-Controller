@@ -1,5 +1,12 @@
 fileFormatVersion: 2
 guid: f9f65d468731bcf4fba794d064637f84
+AssetOrigin:
+  serializedVersion: 1
+  productId: 342650
+  packageName: FREE - Party Game Characters
+  packageVersion: 1.1
+  assetPath: Assets/FREE/Pack_FREE_PartyCharacters/Models/party_character.fbx
+  uploadId: 825602
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -31,8 +38,6 @@ ModelImporter:
     optimizeGameObjects: 0
     removeConstantScaleCurves: 0
     motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
@@ -372,7 +377,7 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
-  animationType: 2
+  animationType: 3
   humanoidOversampling: 1
   avatarSetup: 1
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
@@ -382,10 +387,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 342650
-  packageName: FREE - Party Game Characters
-  packageVersion: 1.1
-  assetPath: Assets/FREE/Pack_FREE_PartyCharacters/Models/party_character.fbx
-  uploadId: 825602
